@@ -1,6 +1,4 @@
-// TODO: Create variables with good names: firstName, lastName, birthYear
-let firstName = "String";
-let lastName = "String";
-let birthYear = Number;
-// TODO: Print them
+let firstName = "John";
+let lastName = "Doe";
+let birthYear = 2000;
 console.log(firstName, lastName, birthYear);

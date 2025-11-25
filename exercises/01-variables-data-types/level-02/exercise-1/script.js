@@ -1,7 +1,5 @@
-// TODO: Create variables for string, number, boolean, and undefined
-let text = "String";
-let num = any;
-let bool = Boolean;
-let undef = any;
-// TODO: Print each one
+let text = "Hello";
+let num = 42;
+let bool = true;
+let undef = undefined;
 console.log(text, num, bool, undef);
